@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+button{
+    border-radius: 32px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px #00000066;
+    background-color: #e9dac3;
+    font-size: 25px;
+}
+body{
+    background-color: #e9dac3;
+    display: grid;
+}
+ 
+form{
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #0006;
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    text-shadow: 5px 5px 5px #0006;
+}
+
+input{
+    border-radius: 15px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px #0006;
+}
+p{
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 5px 5px 5px #0006;
+    border: 3px solid black;
+    box-shadow: 5px 5px 5px #0006;
+    border-radius: 10px;
+}
+h1{
+    text-shadow: 5px 5px 5px #0006;
+    font-family: "Audiowide", sans-serif;
+    
+}
+button{
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: 5px 5px 5px #0006;
+}
+
